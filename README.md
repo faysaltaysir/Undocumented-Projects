@@ -20,3 +20,13 @@
 •	Robo-soccer car (participated in competition science fair)<br>
 •	Obstacle avoiding car<br>
 •	Some other projects with other sensors and output device. (water sensor, sonar sensor etc)<br>
+
+
+
+object counter
+auto plant watering system
+smart dustbin
+automated street lamp
+voice controlled device
+
+
